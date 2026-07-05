@@ -25,7 +25,7 @@ Se aplicó StandardScaler sobre las variables numéricas para evitar distorsione
 
 ## Visualización Interactiva
 La aplicación pública interactiva se encuentra desplegada en Streamlit Cloud. Permite explorar el comportamiento del dataset, los gráficos del EDA con sus interpretaciones y el impacto de la varianza en PCA.
-* **Enlace a la App:** [Insertar enlace público aquí cuando esté desplegado]
+* **Enlace al Repositorio y Código de la App:** https://github.com/somanial/PI_Mineria_Datos_1
 
 ## Cómo Ejecutar Localmente
 1. Clonar el repositorio de GitHub.
